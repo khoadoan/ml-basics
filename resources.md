@@ -8,6 +8,7 @@
 
 # Online Courses
 
+* Andrew Ng-CS299: https://see.stanford.edu/Course/CS229/
 
 # Resoures by Topics
 
