@@ -1,6 +1,9 @@
 # Books
 
 * Pattern Recognition and Machine Learning (Bishop)
+
+** Slide: https://lear.inrialpes.fr/~jegou/bishopreadinggroup/
+
 * Element of Statistical Machine Learning (Hastie)
 
 # Online Courses
