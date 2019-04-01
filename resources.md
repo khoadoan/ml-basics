@@ -2,7 +2,7 @@
 
 * Pattern Recognition and Machine Learning (Bishop)
 
-** Slide: https://lear.inrialpes.fr/~jegou/bishopreadinggroup/
+  * Slide: https://lear.inrialpes.fr/~jegou/bishopreadinggroup/
 
 * Element of Statistical Machine Learning (Hastie)
 
